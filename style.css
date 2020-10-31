@@ -20,7 +20,7 @@
 }
 .tic-tac {
 
-    margin-top: 270px;
+    margin-top: 250px;
     text-align: center !important;
 
 }
@@ -59,7 +59,7 @@ body {
 /* Left column */
 .leftcolumn {   
   float: left;
-  max-width: 800px;
+  max-width: 600px;
   margin: auto;
 
   align-items: center;
